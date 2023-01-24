@@ -1,0 +1,9 @@
+Data needed to be input from the user:
+
+
+Flight-type: Round trip / One-way / multi-City
+Baggage selection: Carry on Bags / Checked Bags
+From: (City) To: (Destination City)
+Dates: (DD-MM-YYYY)
+Amount of Travellers: (1) - Traveller Type: Adult/Student/Youth/Children/Toddlers (Own seat)/Toddlers (In lap) - Cabin Type: (Economy/Premium Economy/Business/First Class)
+Direct flight only? (Yes/No)
